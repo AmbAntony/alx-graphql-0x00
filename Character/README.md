@@ -4,5 +4,5 @@ Use the following Endpoint: https://rickandmortyapi.com/graphql
 
 ## Instructions:
 
-Write a GraphQL query using the character(id: ID!) field to fetch the details of a character. Use ids 1, 2, 3, 4
+Write a GraphQL query using the character(id: ID!) field to fetch the details of a character. Use ids 1, 2, 3 and 4
 Include the following fields in your query: id, name, status, species, type, gender
